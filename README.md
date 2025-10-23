@@ -1,3 +1,8 @@
+Changes to the original for use with Mac OSX and Apple Metal performance shaders (mps) training and evaluation 
+
+NOTE: there were some changes made to fairseq installation as well
+
+
 ### Requirements and Installation, install sentencepiece package
 ```bash
 pip3 install sentencepiece
